@@ -1,7 +1,7 @@
 {
-    "data":
-    "I'm", "JUST": 
-         "here","TO"
-  :"ugly",
-           "Yo":"u!"
-    }
+       "data": {
+         "I'm": "just",
+         "here": "to",
+         "ugly": "you!"
+       }
+}
